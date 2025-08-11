@@ -5,8 +5,7 @@ import { Component, signal } from '@angular/core';
   selector: 'app-login',
   imports: [],
   template: `
-
-  <h2>este es el login</h2>
+<h1 class="text-3xl font-bold text-[#1DA1F2]">LOGIN PAGE</h1>
   `,
 
 })
